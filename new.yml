@@ -10,7 +10,7 @@ Secrets='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZS
 Secrets="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6InRoaXNpc2Z1biIsImlhdCI6MTUxNjIzOTAyMn0.aEhpaGFnhrcFgdu8UX2JroXA5Iz4CSH--RO-jZvLxlk"
 
 
-Secrets=
+Secrets=new_content
 
 
 aws_access_key_id = os.environ.get("Dynamo_AWS_ACCESS_KEY_ID", "AKIARJFBAG3EGHFG2FPN")
