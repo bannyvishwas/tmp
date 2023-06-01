@@ -1,0 +1,25 @@
+Secrets:
+     Description: secret
+     Type: String
+     Default: ''
+
+
+Secrets='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lZHNmZHNmc2Rmc2Rmc2Rmc2Rmc2Rmc2Rmc2RmZHNmZHNmIiwiaWF0IjoxNTE2MjM5MDIyfQ.PuhWqboGtGKhSfUHAonW7xTtDYc0G8yAcoRQos2nj3E'
+
+
+Secrets="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6InRoaXNpc2Z1biIsImlhdCI6MTUxNjIzOTAyMn0.aEhpaGFnhrcFgdu8UX2JroXA5Iz4CSH--RO-jZvLxlk"
+
+
+Secrets=
+
+
+aws_access_key_id = os.environ.get("Dynamo_AWS_ACCESS_KEY_ID", "AKIARJFBAG3EGHFG2FPN")
+
+
+aws_secret_access_key = os.environ.get("Dynamo_AWS_SECRET_ACCESS_KEY", "Js6IDrwAIkvSY+8fSJ5bcep05ENlNvXgc+JRRr7B")
+
+
+aws_access_key_id=os.environ.get("AWS_ACCESS_KEY_ID1", ""
+
+
+aws_secret_access_key=os.environ.get("AWS_SECRET_ACCESS_KEY1", "Js6IDrwAIkvSY+8fSJ5bcep05ENlNvXgc+JRRr7Y")
