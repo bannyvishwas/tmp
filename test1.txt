@@ -1,0 +1,4 @@
+token=""
+
+this is a clean line 1
+this is clean line 2
